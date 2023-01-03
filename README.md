@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriya0202&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriya0202"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriya0202&hide=stata)](https://github.com/mauriya0202/github-readme-stats)
